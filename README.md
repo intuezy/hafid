@@ -1,6 +1,9 @@
 # Hafid Pratama, S.E., M.Ak., CA, CPA, BKP
 > Website Personal Profesional Akuntansi — Presisi Finansial & Kepatuhan Fiskal
 
+🌐 **Live Website**: [https://hafid-xi.vercel.app](https://hafid-xi.vercel.app)  
+📄 **Direct CV Download**: [https://hafid-xi.vercel.app/cv.pdf](https://hafid-xi.vercel.app/cv.pdf)
+
 Repositori website personal (*single-page*) untuk seorang praktisi akuntansi publik dan konsultan pajak berlisensi, dibangun menggunakan **Next.js 16 (App Router)**, **TypeScript**, dan **Tailwind CSS**.
 
 Situs ini dirancang dengan pendekatan editorial presisi tinggi yang secara ketat **menghindari "AI Slop"** (tanpa gradien ungu-biru generik, tanpa stock photo tersenyum palsu, tanpa kartu shadow tebal mengambang), melainkan menghadirkan estetika *financial ledger* institusional yang menonjolkan kredibilitas dan kepercayaan.
